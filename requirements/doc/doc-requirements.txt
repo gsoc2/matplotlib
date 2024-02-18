@@ -22,3 +22,6 @@ sphinx-gallery>=0.12.0
 sphinx-copybutton
 sphinx-design
 sphinx-tags>=0.3.0
+fonttools>=4.43.0 # not directly required, pinned by Snyk to avoid a vulnerability
+numpy>=1.22.2 # not directly required, pinned by Snyk to avoid a vulnerability
+pillow>=10.2.0 # not directly required, pinned by Snyk to avoid a vulnerability
